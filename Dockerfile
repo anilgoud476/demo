@@ -1,2 +1,2 @@
 FROM centos:8
-RUN echo "demo project" >/root/sshjk.txt
+RUN echo "demo projects" >/root/sshjk.txt
